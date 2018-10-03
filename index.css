@@ -1,5 +1,8 @@
 .other-website-link {
-    left: 20px;
+/*    left: 20px;*/
+    text-align: center;
+}
+.resume-link {
     text-align: center;
 }
 a:link {
