@@ -3,10 +3,10 @@ div.links {
 }
 .other-website-link {
 /*    left: 20px;*/
-    outline: 1px solid lime;
+    outline: 2px solid lime;
 }
 .resume-link {
-    outline: 1px solid lime;
+    outline: 2px solid lime;
 }
 a:link {
     color: black;
