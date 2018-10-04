@@ -11,6 +11,7 @@ a.resume-link {
     outline: 2px solid lime;
 }
 a.north-link {
+    margin: 10px;
     outline: 2px solid lime;
 }
 a:link {
