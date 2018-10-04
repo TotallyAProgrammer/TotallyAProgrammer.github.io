@@ -10,6 +10,9 @@ a.resume-link {
     margin: 10px;
     outline: 2px solid lime;
 }
+a.north-link {
+    outline: 2px solid lime;
+}
 a:link {
     color: black;
 }
