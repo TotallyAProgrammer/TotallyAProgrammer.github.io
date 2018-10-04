@@ -1,11 +1,13 @@
 div.links {
     text-align: center;
 }
-div.other-website-link {
+a.other-website-link {
 /*    left: 20px;*/
+    margin: 10px;
     outline: 2px solid lime;
 }
-div.resume-link {
+a.resume-link {
+    margin: 10px;
     outline: 2px solid lime;
 }
 a:link {
